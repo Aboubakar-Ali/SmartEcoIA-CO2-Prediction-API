@@ -1,0 +1,1001 @@
+Sex,Âge,Pays,Consommation_KWh,Moyen_de_transport,Nombre_de_KM,Classe_énergétique,Surface_maison_M2,Kg_CO2_Total_Hebdo
+Male,56,France,891,Bus,4707,A,300,8.09
+Male,69,Germany,1237,Voiture (diesel),1648,C,150,12.56
+Female,46,Germany,664,Train (intercités),12358,F,75,9.77
+Male,32,South Africa,1034,Train (intercités),18204,B,75,21.68
+Male,60,Brazil,1361,Moto,7773,A,300,17.04
+Female,25,Canada,674,Métro,12214,A,200,10.77
+Male,38,Canada,1541,Bus,3795,C,50,24.96
+Male,56,India,703,Train (diesel),18115,C,150,17.99
+Male,36,India,328,Métro,1275,A,200,2.14
+Male,40,United Kingdom,1368,Voiture (diesel),8836,D,100,33.79
+Male,28,South Africa,756,Bus,11986,G,300,27.43
+Female,28,Australia,713,Train (électrique),3961,D,200,9.45
+Female,41,South Africa,1665,Tramway,6848,G,50,22.13
+Male,70,India,1136,Tramway,16797,E,50,9.78
+Female,53,Canada,1571,Voiture (électrique),9334,F,75,20.89
+Male,57,United States,1322,Train (diesel),898,B,300,5.01
+Female,41,Canada,1203,Tramway,7439,G,150,16.47
+Female,20,Australia,1634,Tramway,308,C,150,18.91
+Female,39,Australia,157,Train (diesel),15357,D,300,13.62
+Male,70,United Kingdom,582,Train (intercités),16981,G,200,10.18
+Female,19,China,1889,Voiture (diesel),4932,B,50,39.83
+Male,41,Canada,539,Train (intercités),5893,F,75,9.57
+Female,61,United States,705,Train (électrique),13020,A,75,6.31
+Female,47,South Africa,1236,Voiture (électrique),12593,D,300,17.15
+Female,55,China,671,Tramway,17692,F,75,11.79
+Male,19,Brazil,615,Moto,886,E,300,2.65
+Female,38,France,876,TGV,5582,D,100,2.3
+Male,50,South Africa,1811,Moto,4177,G,50,30.67
+Male,29,South Africa,1924,Métro,9698,F,100,25.91
+Male,39,United States,1776,Voiture (électrique),13315,A,100,7.6
+Female,61,Germany,1787,Voiture (essence),5252,A,100,29.9
+Female,42,Canada,153,Voiture (diesel),19778,D,200,66.95
+Female,66,Canada,1418,Moto,18728,C,150,53.74
+Male,44,India,467,TGV,11714,B,100,5.4
+Male,59,Brazil,562,Voiture (diesel),13184,G,300,44.22
+Female,45,United Kingdom,285,TGV,16392,C,75,4.77
+Female,33,China,208,Voiture (diesel),16511,G,150,56.9
+Female,32,Brazil,572,Métro,15402,A,150,3.84
+Male,64,South Africa,655,Train (intercités),9696,D,300,12.85
+Male,68,Germany,170,Train (diesel),5164,A,50,4.95
+Male,61,Brazil,1973,TGV,2668,B,150,3.65
+Male,69,United States,1886,Voiture (diesel),4950,G,200,22.44
+Male,20,South Africa,1765,Bus,3787,B,100,27.74
+Female,54,United States,969,Voiture (électrique),8455,C,200,4.31
+Female,68,Australia,1711,Train (intercités),8010,D,50,23.59
+Male,24,Germany,1867,Voiture (essence),14572,G,150,65.14
+Male,38,South Africa,843,Voiture (diesel),926,B,100,13.58
+Female,26,Germany,973,Voiture (essence),4914,B,50,23.95
+Female,56,Brazil,1149,Train (intercités),13173,G,300,8.1
+Female,35,United States,1935,Train (intercités),19270,G,50,15.59
+Female,21,China,996,TGV,17770,F,300,16.55
+Female,42,United States,261,Voiture (essence),7870,A,150,30.21
+Male,31,India,720,Voiture (électrique),15176,E,100,6.2
+Male,67,Australia,846,Train (diesel),18688,E,300,24.14
+Male,26,United States,1845,Métro,17578,A,300,9.41
+Male,43,United Kingdom,559,Bus,3494,E,100,7.18
+Male,70,Germany,588,Train (électrique),5432,E,75,5.06
+Male,19,Canada,1933,Train (diesel),4674,B,200,27.76
+Male,37,Australia,600,Moto,6065,D,150,18.59
+Female,45,Brazil,901,Train (intercités),1190,E,300,1.96
+Male,64,China,1142,Voiture (essence),15479,F,75,72.02
+Female,24,India,1864,Moto,19102,F,150,47.49
+Female,61,Brazil,325,Train (diesel),19192,F,300,15.26
+Female,25,United States,337,Voiture (diesel),5900,G,300,20.5
+Female,64,Canada,717,Moto,13510,F,200,34.94
+Male,52,Australia,1577,Métro,9492,G,75,20.02
+Male,31,Australia,1183,Voiture (électrique),262,C,300,13.69
+Male,34,United States,589,Moto,11702,F,150,24.43
+Male,53,India,735,TGV,16608,F,150,8.07
+Female,67,South Africa,294,Tramway,11898,F,200,5.96
+Female,57,Canada,636,Voiture (essence),8489,D,300,39.62
+Male,21,China,1625,Métro,8274,G,200,21.9
+Male,19,United States,522,Train (diesel),16785,D,100,14.62
+Male,23,Australia,766,Voiture (essence),6536,F,50,33.22
+Male,59,France,1772,Bus,9150,G,200,15.77
+Female,21,India,981,Voiture (essence),1283,C,50,10.45
+Male,46,South Africa,1145,Train (diesel),17189,G,50,27.53
+Female,35,Canada,438,Train (diesel),7228,A,50,11.04
+Female,43,China,1586,Train (électrique),15726,F,50,24.66
+Female,61,United States,1869,Tramway,16680,B,100,9.32
+Male,51,United Kingdom,1950,Bus,6913,C,100,17.12
+Male,27,China,1466,Métro,5222,D,100,19.33
+Female,53,France,1363,Tramway,10672,B,75,3.62
+Female,31,Germany,406,Voiture (électrique),18032,D,75,4.77
+Female,48,United States,1107,Train (intercités),7900,D,200,7.42
+Male,65,United States,1023,Train (électrique),14198,E,200,7.71
+Female,32,Australia,1311,Bus,13191,G,75,34.91
+Female,25,United Kingdom,1290,Tramway,18633,B,100,8.05
+Male,31,Germany,435,Voiture (électrique),11569,G,100,4.07
+Female,40,South Africa,865,Train (électrique),9544,E,50,13.75
+Female,57,Brazil,690,TGV,1710,G,200,1.46
+Male,38,India,1764,Bus,4733,G,200,17.28
+Female,33,United States,931,Train (intercités),5116,G,75,5.5
+Male,62,China,1242,Voiture (diesel),9994,A,50,48.39
+Female,35,Brazil,1647,TGV,19255,B,300,6.98
+Female,64,United States,593,Tramway,6854,F,300,3.26
+Male,70,India,1436,Tramway,17137,C,75,11.58
+Female,41,China,911,Train (diesel),8926,B,50,18.25
+Male,43,France,630,Moto,3326,G,200,7.12
+Female,42,China,822,Voiture (électrique),19403,D,100,12.89
+Male,62,Canada,650,Métro,15855,B,100,11.17
+Male,58,United States,559,Train (intercités),13872,C,100,8.5
+Male,46,Australia,1623,Bus,18102,F,50,45.88
+Female,32,Canada,760,Voiture (électrique),17856,A,100,11.9
+Female,62,United States,157,Tramway,9034,D,75,2.25
+Male,18,United States,915,Train (intercités),8841,D,75,7.24
+Male,42,South Africa,1070,Voiture (diesel),11463,F,300,51.07
+Male,24,United States,257,TGV,10024,E,200,3.15
+Male,26,India,1722,Train (intercités),18039,G,100,18.61
+Female,41,Australia,1105,Métro,18556,F,75,16.32
+Female,18,India,257,Voiture (électrique),14285,D,75,3.41
+Female,61,France,810,Voiture (diesel),5311,E,50,18.4
+Female,25,Australia,246,TGV,6737,B,50,4.39
+Female,41,United Kingdom,824,Métro,15396,E,100,5.81
+Male,28,Germany,1645,TGV,6551,D,100,11.0
+Male,68,United Kingdom,1194,Train (diesel),7258,F,200,9.72
+Female,34,India,1146,Tramway,12621,A,300,9.04
+Male,25,United Kingdom,613,Métro,12560,C,75,4.54
+Female,52,United Kingdom,392,Voiture (essence),19401,C,50,73.74
+Female,52,China,284,Train (intercités),6648,C,150,6.75
+Female,50,China,245,Bus,16915,A,200,28.44
+Female,22,China,1704,Métro,19462,A,300,25.04
+Female,59,Germany,1123,Moto,8086,E,200,22.03
+Female,56,United Kingdom,138,Bus,2798,A,50,4.67
+Female,58,Germany,1942,Voiture (électrique),17002,B,200,13.49
+Male,45,Australia,1343,Métro,8804,D,75,17.19
+Male,24,Australia,468,TGV,15436,C,100,8.96
+Female,26,United Kingdom,390,Tramway,10416,D,75,3.35
+Female,25,China,1389,Tramway,13735,G,200,20.0
+Male,29,China,1177,Moto,9396,A,300,32.78
+Male,51,France,1647,Bus,6943,D,300,12.31
+Male,50,Australia,543,Train (diesel),14213,C,300,17.2
+Male,65,Brazil,375,Voiture (électrique),4854,D,200,1.23
+Male,40,Germany,1981,Voiture (essence),2993,E,300,22.6
+Male,41,India,1711,Métro,7189,C,75,11.25
+Male,54,India,1931,Voiture (diesel),3818,A,100,23.7
+Female,52,Germany,1111,Voiture (diesel),1274,E,100,10.6
+Female,61,United Kingdom,606,TGV,3421,F,300,2.89
+Female,57,United States,1682,Train (intercités),11129,A,50,10.85
+Male,39,India,351,Train (intercités),5380,E,75,4.61
+Male,44,United States,672,TGV,3664,C,150,3.04
+Female,52,South Africa,966,Train (électrique),3627,A,100,13.19
+Female,18,United Kingdom,702,Train (électrique),9639,A,150,5.4
+Female,52,France,452,Train (intercités),12444,C,200,6.5
+Female,54,United States,418,Bus,10292,C,50,16.8
+Male,64,China,660,Bus,2549,E,75,12.07
+Female,31,United States,1844,Voiture (diesel),4558,B,100,21.02
+Female,20,Germany,1372,Voiture (diesel),6895,G,150,30.59
+Female,18,India,1518,TGV,6562,C,200,10.27
+Female,22,France,1866,Métro,1994,D,75,2.54
+Female,43,Germany,490,Voiture (diesel),4017,E,100,16.04
+Female,31,United Kingdom,1977,Voiture (diesel),2175,A,75,14.0
+Female,56,Australia,223,Voiture (essence),10021,G,200,39.96
+Female,44,United States,609,Tramway,13664,E,75,4.62
+Female,26,Germany,1842,Train (diesel),10298,B,300,18.55
+Male,32,Brazil,1654,Moto,7469,A,75,16.91
+Female,32,Germany,1645,Train (électrique),19827,G,200,15.59
+Female,43,Brazil,914,Métro,1049,G,150,1.61
+Female,59,United Kingdom,1637,Voiture (essence),10092,G,75,43.32
+Female,30,China,1132,Train (diesel),16754,B,100,27.04
+Male,68,Germany,1364,Tramway,1082,G,75,8.08
+Female,49,India,801,Métro,17432,A,100,7.97
+Female,56,Australia,1065,Tramway,15150,A,100,15.2
+Male,66,United Kingdom,1408,Train (intercités),14533,A,300,11.86
+Female,69,United States,808,Voiture (diesel),4662,A,150,17.97
+Male,49,France,1813,Voiture (diesel),10441,B,50,36.43
+Female,21,France,559,Train (diesel),16432,G,300,13.28
+Male,47,Germany,356,Métro,7776,G,100,3.55
+Female,54,France,950,Train (diesel),5336,G,100,5.2
+Female,40,India,237,Voiture (essence),10787,E,300,41.61
+Male,56,Germany,561,Bus,5397,A,300,11.33
+Male,62,Brazil,487,Métro,19568,D,150,4.51
+Male,32,Canada,1947,Tramway,4050,A,50,25.12
+Female,60,Brazil,829,Train (électrique),14341,B,75,5.69
+Female,46,Germany,1164,Métro,19228,D,100,10.41
+Male,53,Canada,1713,Train (électrique),14179,G,50,25.78
+Male,30,India,599,Train (diesel),8465,F,300,9.97
+Female,49,United Kingdom,1797,Voiture (diesel),19754,F,100,71.18
+Male,24,India,265,Voiture (électrique),10621,F,75,2.96
+Male,68,South Africa,447,Voiture (diesel),11049,G,50,41.92
+Male,39,Brazil,976,Tramway,12846,B,100,3.97
+Female,45,Germany,1122,TGV,5400,F,100,7.72
+Female,19,South Africa,816,TGV,3716,A,100,11.06
+Male,59,China,599,Train (intercités),17710,E,300,16.0
+Male,62,South Africa,1650,Tramway,1566,A,300,20.93
+Female,70,Australia,992,Train (intercités),13066,D,50,17.73
+Male,23,China,799,Tramway,1517,B,50,10.28
+Female,45,Brazil,386,Voiture (diesel),4733,C,150,16.16
+Female,45,Germany,544,Métro,366,B,300,3.21
+Female,61,Australia,908,Train (diesel),212,B,100,10.64
+Female,61,China,1381,Métro,18022,D,300,20.73
+Female,37,Brazil,1720,TGV,1084,G,200,2.9
+Male,47,China,628,TGV,3397,C,150,8.63
+Male,28,Canada,377,Tramway,14015,B,150,7.41
+Female,45,United States,1920,Voiture (essence),1082,G,200,10.31
+Female,42,United States,629,Train (intercités),11392,B,100,7.53
+Female,56,India,905,Train (intercités),10281,F,75,10.16
+Male,50,Australia,506,TGV,171,D,300,5.88
+Male,18,South Africa,395,Train (électrique),13126,C,50,8.98
+Female,44,India,1586,Train (électrique),12215,G,75,12.91
+Male,69,Brazil,271,Voiture (diesel),257,E,200,1.26
+Female,30,Australia,478,Moto,14600,E,300,33.59
+Male,58,United States,396,Voiture (essence),3513,A,50,14.4
+Male,20,France,788,Voiture (électrique),16468,A,100,3.13
+Female,56,South Africa,1741,Train (diesel),7474,D,300,27.51
+Female,23,France,1798,Voiture (essence),2981,B,50,13.2
+Female,25,United Kingdom,1917,Train (diesel),5224,B,200,10.65
+Male,44,Germany,1531,Tramway,19976,B,150,12.67
+Female,26,Canada,1977,Métro,4661,D,75,25.61
+Female,54,Canada,770,Train (électrique),10008,E,200,12.7
+Male,50,United Kingdom,873,Train (électrique),1226,D,200,3.4
+Female,68,Brazil,757,Train (électrique),16313,B,75,6.18
+Female,59,South Africa,1192,Métro,10849,A,100,16.99
+Female,61,United States,1889,Train (intercités),18874,C,150,15.25
+Female,41,Germany,1186,Voiture (électrique),9169,G,300,8.08
+Male,32,South Africa,1425,Métro,17677,F,100,21.21
+Male,49,Brazil,722,Voiture (électrique),1338,G,300,1.29
+Male,49,Brazil,438,Train (intercités),521,A,300,0.92
+Female,41,Australia,1821,Moto,10565,A,50,41.33
+Male,58,Germany,688,Train (électrique),9380,A,50,6.86
+Female,69,Canada,1581,Train (diesel),2984,C,75,22.06
+Male,66,China,1781,Voiture (diesel),8717,A,150,50.93
+Female,66,United Kingdom,1148,TGV,18730,C,100,8.3
+Female,69,France,970,Voiture (diesel),6274,D,50,21.75
+Male,29,South Africa,1366,Bus,7861,E,150,28.87
+Female,56,Germany,616,Train (diesel),1967,D,200,5.07
+Male,19,France,1664,TGV,19320,B,300,6.38
+Female,20,Germany,520,Métro,4578,G,150,3.88
+Female,66,United Kingdom,1445,Métro,10656,G,200,7.05
+Female,54,United States,1886,Voiture (essence),3949,G,150,20.9
+Female,66,South Africa,647,Voiture (électrique),2758,C,200,8.46
+Male,34,Australia,1975,Voiture (essence),18957,A,50,93.51
+Female,66,South Africa,165,Tramway,5963,F,100,3.21
+Male,19,Brazil,1474,TGV,2876,G,150,2.93
+Male,19,China,891,Voiture (essence),16397,C,50,72.31
+Male,45,Germany,1859,Moto,2998,C,200,16.49
+Male,40,France,544,Métro,662,D,75,0.76
+Male,54,France,414,Voiture (diesel),5791,E,200,19.52
+Male,49,France,585,Train (électrique),6335,G,75,2.62
+Female,50,United States,1831,Train (intercités),8339,A,75,10.0
+Female,18,France,1773,TGV,16955,E,150,5.96
+Female,36,Brazil,325,Voiture (essence),7546,F,150,28.65
+Male,19,India,1907,Train (intercités),18166,F,100,19.74
+Female,70,South Africa,1997,Voiture (essence),14455,C,200,78.89
+Female,61,South Africa,1629,Voiture (essence),10368,B,100,59.04
+Male,43,Australia,1795,Voiture (électrique),15494,F,75,22.8
+Male,49,France,203,TGV,17015,E,300,4.16
+Female,23,South Africa,1067,Bus,8598,A,150,26.23
+Male,49,China,341,TGV,3132,E,100,4.99
+Male,21,South Africa,365,Voiture (électrique),5701,C,50,5.33
+Female,28,France,296,Train (électrique),18376,F,150,6.0
+Female,34,Germany,1993,Voiture (diesel),18678,E,75,72.92
+Male,55,France,1599,Moto,4416,C,300,10.34
+Female,41,France,1149,Voiture (diesel),4948,B,75,17.6
+Male,22,South Africa,1662,Train (électrique),6465,F,100,22.76
+Male,69,Germany,772,Voiture (essence),11889,D,50,48.81
+Male,51,Brazil,926,Métro,926,B,200,1.6
+Male,23,United Kingdom,1880,TGV,808,D,300,6.69
+Male,39,India,1234,Voiture (électrique),5248,E,300,7.83
+Female,28,Germany,1299,Train (intercités),3266,B,300,9.06
+Female,65,India,1638,Métro,9362,F,300,11.25
+Female,33,United States,1880,Métro,15706,G,200,9.17
+Male,50,Germany,293,Voiture (diesel),17461,E,100,59.11
+Male,26,China,911,Tramway,6898,F,75,12.71
+Female,23,United States,617,Tramway,19267,A,200,5.72
+Male,33,Canada,1668,Voiture (essence),19676,G,150,94.26
+Male,46,South Africa,1089,Tramway,5711,B,100,14.71
+Female,20,Germany,423,Train (électrique),15342,C,75,7.16
+Female,37,Australia,770,Moto,16483,G,50,40.58
+Female,53,United Kingdom,131,Moto,14931,E,75,29.17
+Female,36,Australia,168,Voiture (électrique),13767,G,150,3.79
+Female,43,Germany,719,Voiture (essence),14761,A,200,59.22
+Male,20,Australia,1569,TGV,18352,D,50,22.34
+Female,36,China,201,Voiture (électrique),6823,A,200,3.43
+Female,37,China,1122,Voiture (diesel),10657,B,150,49.07
+Female,49,India,620,Train (intercités),4369,B,100,5.68
+Female,24,Germany,1268,Bus,8133,B,300,19.51
+Female,69,United Kingdom,569,Voiture (diesel),13348,A,300,45.86
+Male,58,Canada,409,Moto,19927,G,100,43.43
+Male,50,Germany,340,Moto,14381,C,150,29.62
+Female,57,France,1143,Voiture (essence),19855,E,200,75.39
+Female,56,India,898,Tramway,16754,G,75,8.4
+Female,35,France,1832,Bus,19898,C,150,31.96
+Male,57,Brazil,1217,Voiture (essence),10732,C,50,41.91
+Male,18,India,1367,Métro,17705,C,300,11.29
+Male,28,Brazil,1167,Tramway,4976,G,50,2.75
+Male,45,Canada,1669,Voiture (électrique),13951,A,300,22.74
+Female,42,United States,162,Train (diesel),6358,G,150,5.42
+Male,67,South Africa,256,Voiture (diesel),1842,F,200,9.26
+Female,40,Brazil,1174,Train (électrique),6364,C,300,3.76
+Female,48,India,1570,Train (intercités),8282,D,50,13.04
+Male,47,Canada,1181,Voiture (essence),19685,C,150,88.2
+Female,59,United States,819,Bus,10367,F,200,18.23
+Female,52,Australia,629,Métro,2989,C,300,7.83
+Female,24,Canada,738,Voiture (électrique),860,B,100,9.34
+Male,33,Australia,1658,TGV,13708,G,100,22.29
+Female,43,South Africa,1956,TGV,15145,B,75,27.95
+Female,65,Germany,1074,Train (électrique),2743,D,300,7.04
+Male,69,China,1297,Train (électrique),11770,G,200,19.83
+Female,66,United States,1071,Tramway,14875,E,200,6.36
+Female,19,France,1406,Tramway,9055,B,100,3.36
+Male,18,United States,1277,Métro,16724,E,75,7.39
+Female,65,Canada,994,Tramway,19490,D,100,16.17
+Male,29,Germany,717,Tramway,4064,D,75,4.92
+Male,22,India,1971,TGV,11550,D,50,14.04
+Male,54,Germany,1982,Train (électrique),6017,E,100,13.29
+Male,49,Canada,1227,TGV,9133,A,300,17.45
+Male,26,France,815,Train (électrique),19565,D,300,6.96
+Female,58,China,188,Bus,13071,C,200,21.96
+Male,52,Germany,480,Bus,15415,G,50,25.89
+Male,36,France,1684,Voiture (diesel),9981,F,200,34.77
+Female,65,India,906,Train (électrique),9859,A,150,8.26
+Female,33,China,1257,Voiture (essence),12082,F,150,60.79
+Female,20,Brazil,1356,Voiture (électrique),5263,E,75,2.79
+Male,37,United States,1165,Voiture (essence),6770,G,200,29.07
+Female,41,Canada,1762,Bus,18458,G,50,49.71
+Male,50,France,1514,Voiture (électrique),15633,E,100,3.85
+Male,41,France,1215,Train (intercités),13637,B,75,7.96
+Female,69,Brazil,1653,Voiture (électrique),18319,G,200,5.01
+Female,28,France,1460,Moto,10714,E,200,22.29
+Male,66,Brazil,1713,Métro,18224,B,300,6.14
+Female,25,Australia,393,Métro,11316,G,50,6.71
+Female,53,France,1907,Voiture (diesel),4398,E,150,16.66
+Male,55,France,1282,Voiture (diesel),4419,C,75,16.01
+Male,57,Germany,1499,Tramway,6110,A,300,9.82
+Female,37,China,311,Voiture (électrique),5258,D,150,4.6
+Female,52,India,311,Train (intercités),9233,D,50,6.23
+Female,65,China,122,Bus,6230,G,100,10.87
+Female,42,South Africa,1440,Voiture (diesel),2048,A,300,24.73
+Male,52,Brazil,1602,Voiture (diesel),10612,E,200,37.36
+Male,42,France,534,Voiture (essence),19907,F,150,74.88
+Male,46,United States,536,Bus,12815,B,150,20.97
+Male,35,Brazil,1416,Moto,7049,A,150,15.73
+Female,63,United States,556,Bus,4744,F,150,8.93
+Male,35,United Kingdom,1794,Train (électrique),11394,G,200,9.72
+Male,19,Brazil,1930,Moto,15887,F,200,33.52
+Male,52,Germany,828,Train (intercités),6313,F,50,7.81
+Female,33,Canada,869,Voiture (électrique),9102,E,300,12.09
+Male,58,France,548,Train (intercités),9856,A,100,5.37
+Male,53,India,279,TGV,13549,C,150,4.74
+Male,50,United Kingdom,1357,Voiture (essence),9848,G,150,41.44
+Male,21,United Kingdom,1478,TGV,1348,B,150,5.43
+Male,50,India,961,Voiture (électrique),3573,A,75,6.03
+Male,31,Australia,1018,TGV,17608,G,200,15.81
+Male,38,Brazil,1674,Métro,9103,C,75,4.33
+Female,65,Germany,1794,Métro,6727,E,300,11.64
+Female,37,South Africa,546,Voiture (essence),8964,C,100,40.27
+Male,25,China,184,Métro,5863,F,50,3.43
+Female,24,United Kingdom,738,TGV,128,A,50,2.58
+Female,20,South Africa,143,Train (intercités),9933,D,75,6.56
+Female,34,Brazil,1462,Train (électrique),1810,A,100,2.81
+Female,50,France,346,Voiture (diesel),7892,G,300,26.35
+Male,65,China,151,Bus,11020,E,300,18.42
+Male,29,United Kingdom,1022,Moto,14348,F,300,31.13
+Female,68,United States,514,Bus,12890,B,100,21.02
+Male,39,Germany,145,Train (intercités),7399,D,150,4.39
+Male,39,United States,316,Voiture (essence),5192,F,100,20.4
+Male,63,Australia,208,Voiture (électrique),1003,C,100,2.54
+Female,47,United Kingdom,1384,Train (intercités),7576,C,300,8.43
+Female,55,United Kingdom,874,Métro,17883,B,200,6.46
+Female,55,United States,1760,TGV,312,E,200,5.83
+Female,62,Germany,1897,Voiture (diesel),1064,B,50,14.44
+Female,68,India,329,Train (électrique),11429,G,150,5.41
+Female,25,India,351,Tramway,7837,G,300,3.53
+Male,44,Germany,854,Train (intercités),7928,G,150,8.74
+Male,44,Australia,1786,Voiture (essence),5573,F,50,41.4
+Male,51,India,105,Bus,695,G,200,1.65
+Male,38,India,1298,Métro,1614,F,150,7.8
+Male,47,United States,535,Train (diesel),3532,C,150,4.47
+Male,50,Germany,567,Train (intercités),14964,D,150,10.47
+Female,45,Australia,1059,Bus,9885,C,200,27.05
+Male,64,Germany,346,Bus,19866,C,300,31.8
+Male,50,India,764,Voiture (diesel),9516,G,200,35.7
+Male,22,Australia,1358,Tramway,101,B,100,15.69
+Female,65,United Kingdom,604,Train (diesel),11767,C,200,11.14
+Male,36,United Kingdom,567,Voiture (essence),3835,E,75,16.27
+Male,21,China,101,Voiture (essence),19619,G,200,74.46
+Male,52,China,1656,Métro,7931,D,150,22.23
+Male,66,France,1356,TGV,7633,F,150,3.33
+Male,34,Germany,176,Tramway,12641,D,300,3.45
+Female,61,United Kingdom,730,Métro,12749,C,300,4.98
+Male,45,Australia,1192,Voiture (diesel),16574,C,75,68.26
+Female,47,Brazil,1847,Train (électrique),14262,A,50,7.23
+Male,46,Australia,1922,Tramway,16683,E,200,25.39
+Female,63,United Kingdom,304,Train (électrique),6662,D,75,3.1
+Male,70,India,679,Moto,18364,A,50,39.23
+Male,23,United Kingdom,858,Tramway,18673,E,75,6.56
+Male,52,France,1792,Métro,7947,G,300,3.6
+Female,58,United States,1798,Train (intercités),10416,B,150,10.89
+Female,54,India,1637,Métro,8130,F,50,11.01
+Male,41,India,982,Train (intercités),9827,G,50,10.39
+Male,46,Brazil,1658,Train (électrique),14069,G,200,6.88
+Male,66,Germany,1726,Train (intercités),11394,F,75,15.44
+Male,63,United States,1060,Voiture (essence),11216,B,50,45.31
+Female,70,China,486,Voiture (essence),10698,C,50,45.99
+Female,48,Brazil,252,Métro,15387,A,50,3.35
+Male,52,United Kingdom,489,Voiture (électrique),4866,G,300,2.35
+Female,50,China,1554,Bus,8865,B,75,32.72
+Male,69,United Kingdom,430,Métro,18693,F,200,5.08
+Female,38,South Africa,1110,Tramway,9455,F,75,15.69
+Female,49,France,1156,Train (intercités),2724,C,100,2.64
+Female,40,Germany,1447,Train (électrique),12717,D,100,12.26
+Male,50,Brazil,794,Train (diesel),10475,F,75,9.28
+Male,20,Australia,1282,TGV,1412,B,300,15.12
+Male,35,South Africa,960,Train (diesel),17739,D,200,25.65
+Male,42,India,1218,Voiture (essence),8924,A,150,40.32
+Female,59,United States,274,Tramway,10877,A,150,2.99
+Female,48,Brazil,436,Train (électrique),270,G,100,0.75
+Female,20,Canada,885,Métro,19475,G,100,14.81
+Female,57,Canada,1237,Voiture (diesel),8572,A,200,43.65
+Female,63,France,1010,Moto,9135,D,100,18.73
+Female,41,Canada,1905,Bus,10073,C,200,38.92
+Female,67,Brazil,1511,Voiture (diesel),17401,B,150,59.55
+Male,49,United States,815,Voiture (électrique),9886,A,100,4.0
+Male,64,France,1542,TGV,12819,D,150,4.74
+Female,39,China,936,Bus,13108,D,75,31.36
+Male,40,India,1794,TGV,7710,F,75,12.13
+Female,19,India,1815,Bus,912,E,50,11.84
+Female,44,Germany,561,Moto,3620,G,50,10.2
+Male,59,Brazil,1040,Train (intercités),4907,F,150,3.96
+Female,19,South Africa,1250,Tramway,11927,C,50,17.92
+Male,43,South Africa,364,Moto,4993,F,75,14.15
+Male,34,United Kingdom,747,Voiture (essence),5907,F,50,24.62
+Male,57,Brazil,1991,Voiture (diesel),14278,B,150,50.02
+Female,50,Germany,1468,Bus,18190,F,75,35.75
+Female,26,Germany,1272,TGV,18625,A,75,11.64
+Male,60,South Africa,1449,Moto,6324,B,75,30.27
+Female,65,France,514,Tramway,12278,A,200,2.95
+Male,56,Canada,1489,Tramway,10324,G,200,20.6
+Female,46,France,1051,Train (diesel),481,B,150,1.58
+Male,59,United Kingdom,829,Bus,10981,A,200,19.34
+Male,43,Germany,1172,Bus,6363,D,200,16.31
+Male,52,France,1433,Voiture (électrique),11622,B,75,3.22
+Female,67,China,483,Train (électrique),903,A,75,6.32
+Male,42,France,1855,Voiture (essence),3043,C,50,13.49
+Female,41,Australia,996,Voiture (essence),15046,A,100,67.63
+Female,30,South Africa,1279,Moto,3469,C,75,22.66
+Female,24,Australia,329,Moto,5409,E,75,14.2
+Female,53,United States,1493,Métro,9840,D,50,6.77
+Male,62,Canada,1565,Voiture (essence),18256,G,100,87.67
+Male,37,United States,1778,Train (diesel),19526,F,200,20.83
+Female,18,United States,220,Train (électrique),12031,F,75,4.42
+Female,25,Canada,259,Bus,5380,F,300,11.31
+Male,63,United States,314,Voiture (essence),5987,C,150,23.36
+Male,33,Australia,1510,Train (électrique),4867,E,300,18.92
+Male,31,France,1080,Train (intercités),3663,C,300,3.01
+Female,29,Australia,571,Moto,2428,A,150,11.26
+Male,68,China,1894,Moto,9906,F,100,42.72
+Female,40,Canada,662,Tramway,4471,D,200,9.13
+Male,32,United States,649,Train (diesel),4719,A,200,5.75
+Male,45,Germany,1158,Train (électrique),18303,D,300,12.31
+Male,51,South Africa,358,Voiture (électrique),11341,C,50,6.0
+Male,19,United States,921,Voiture (essence),18210,D,150,70.95
+Male,49,United States,1376,Voiture (électrique),9615,C,75,5.79
+Female,40,United States,132,Train (diesel),15216,E,300,12.14
+Female,39,India,1483,Bus,16718,E,75,33.63
+Male,68,France,1078,Voiture (électrique),423,A,75,1.3
+Male,42,Germany,1721,Bus,17227,D,50,35.77
+Female,39,Canada,358,TGV,9039,B,50,6.56
+Male,39,South Africa,1624,Voiture (essence),17905,C,150,87.1
+Female,66,France,811,Tramway,13160,F,200,3.47
+Female,69,Australia,186,Voiture (électrique),3123,C,300,2.57
+Female,59,China,795,Voiture (électrique),13067,A,50,11.7
+Male,23,France,1325,Métro,10427,B,300,3.53
+Female,32,France,1346,Bus,4606,B,100,8.46
+Male,60,Brazil,981,TGV,4096,E,50,2.45
+Female,54,United Kingdom,915,Train (intercités),5824,D,150,5.97
+Male,50,Brazil,797,Train (électrique),2040,A,50,1.85
+Female,25,India,1598,TGV,5596,C,150,10.51
+Female,70,India,1958,Moto,2706,D,150,16.5
+Female,61,South Africa,1274,Bus,2368,G,50,19.48
+Female,61,Canada,294,Voiture (diesel),19111,E,300,66.52
+Male,22,Brazil,1498,Voiture (diesel),12925,E,75,44.81
+Male,56,France,1273,TGV,7441,G,75,3.19
+Female,21,Brazil,1873,Voiture (diesel),4087,E,100,16.32
+Female,23,South Africa,165,Voiture (diesel),13839,B,300,47.57
+Female,62,China,177,Train (électrique),18901,G,150,8.03
+Female,49,Brazil,174,Voiture (électrique),1464,G,100,0.46
+Male,69,South Africa,936,Train (électrique),591,D,75,11.88
+Male,47,South Africa,1600,Voiture (diesel),13102,C,150,63.09
+Female,64,South Africa,1070,Tramway,8106,E,200,14.93
+Female,52,Australia,345,Moto,16869,E,50,36.42
+Male,57,United States,1568,Voiture (électrique),1591,B,50,5.34
+Male,69,France,123,Voiture (essence),3545,B,150,13.37
+Male,33,South Africa,1220,TGV,12261,D,100,18.08
+Female,30,Brazil,871,TGV,9074,A,150,3.43
+Male,67,China,1160,Train (électrique),300,C,150,14.59
+Male,59,United States,1935,Bus,6738,D,50,16.43
+Male,47,South Africa,1499,Voiture (essence),18142,D,200,86.42
+Female,36,United States,1895,TGV,14385,A,75,9.51
+Male,34,South Africa,802,Métro,3754,E,100,10.75
+Female,36,Brazil,262,Train (intercités),14421,F,50,7.34
+Male,45,India,113,Moto,9367,A,300,18.67
+Female,43,Australia,1124,Tramway,7307,G,100,14.37
+Male,54,United Kingdom,1008,Voiture (essence),3440,A,200,16.32
+Male,43,United States,1505,Train (intercités),19578,A,75,14.33
+Male,70,Brazil,1759,TGV,957,C,300,2.93
+Male,40,Germany,679,Voiture (électrique),13117,B,150,5.68
+Female,26,United Kingdom,1399,Tramway,19537,G,200,8.6
+Male,29,China,925,Moto,14998,A,100,40.4
+Female,70,India,1998,Tramway,3771,E,300,12.25
+Male,18,India,554,Voiture (électrique),18733,A,50,5.72
+Male,18,Brazil,1300,Bus,19283,B,150,30.92
+Male,64,Brazil,148,Bus,4885,F,75,7.56
+Female,51,South Africa,1369,Tramway,18906,D,100,20.75
+Female,49,United States,937,Bus,10588,D,300,18.95
+Female,65,France,1784,Train (diesel),3123,A,50,4.46
+Female,42,France,270,TGV,15661,D,75,3.93
+Female,57,Brazil,666,Métro,6179,C,150,2.21
+Female,62,Brazil,1567,Train (diesel),639,A,200,2.9
+Female,70,South Africa,921,Voiture (électrique),13983,A,200,13.39
+Male,18,France,1961,Voiture (essence),9861,C,300,39.05
+Male,33,France,1006,Train (intercités),19179,E,100,10.38
+Male,56,Australia,1710,Bus,5416,E,50,27.85
+Male,22,France,775,Bus,13835,F,300,21.65
+Male,39,India,556,Voiture (essence),1203,F,200,7.7
+Female,46,China,555,Train (intercités),8303,D,300,10.93
+Female,20,Germany,1356,Voiture (essence),7925,B,200,37.39
+Female,29,China,1372,Train (électrique),4652,D,300,18.58
+Male,43,South Africa,1798,Voiture (électrique),18980,E,50,25.03
+Male,33,Australia,1749,Voiture (électrique),4569,B,100,20.8
+Male,68,Germany,1176,Voiture (diesel),4932,A,300,23.0
+Male,54,United Kingdom,1724,Métro,5607,C,100,7.05
+Female,39,United States,1947,Train (électrique),13450,G,50,10.5
+Female,46,Brazil,888,Voiture (électrique),6899,B,50,2.29
+Male,31,South Africa,708,Train (diesel),2085,E,200,10.45
+Female,45,China,790,TGV,5243,D,75,11.08
+Male,22,South Africa,1899,Voiture (électrique),6922,D,300,24.67
+Female,64,France,1608,Tramway,19072,E,50,5.52
+Female,66,China,1093,Voiture (diesel),8565,A,200,41.83
+Male,47,China,160,Train (électrique),4085,D,150,3.26
+Male,63,Germany,1905,Bus,3214,D,75,15.81
+Male,69,China,1048,TGV,14408,B,200,16.42
+Male,22,France,1062,Voiture (électrique),4165,B,50,1.79
+Female,29,Germany,1594,Voiture (essence),3235,C,300,21.27
+Male,33,Australia,748,Tramway,13182,G,300,11.17
+Male,43,United Kingdom,1520,Tramway,9533,B,100,7.09
+Male,43,Australia,1123,Voiture (essence),17567,D,50,78.5
+Male,65,South Africa,738,Tramway,6636,G,50,10.5
+Female,38,India,238,Bus,3341,G,300,6.38
+Male,56,Canada,1678,Voiture (diesel),17964,E,150,80.05
+Female,53,Brazil,1638,Voiture (électrique),17556,D,300,4.88
+Female,50,United Kingdom,153,Voiture (électrique),18194,G,300,2.98
+Female,47,South Africa,268,Moto,7693,E,150,18.14
+Female,54,United States,1680,Bus,893,D,50,6.83
+Female,40,United States,556,Train (électrique),18699,F,100,7.57
+Female,27,Australia,1621,Train (intercités),11855,D,300,24.4
+Female,22,Australia,1530,Métro,13193,F,300,20.19
+Male,53,Australia,857,Moto,18306,E,75,45.09
+Male,51,China,1610,Train (électrique),5748,E,100,21.89
+Male,69,Australia,1283,Métro,8276,B,75,16.4
+Female,48,South Africa,1191,Train (diesel),16569,E,75,27.63
+Female,27,China,1755,Train (diesel),1940,F,300,23.43
+Female,36,United Kingdom,1807,Voiture (diesel),11862,A,50,45.26
+Female,49,United Kingdom,1363,Voiture (électrique),1641,F,200,4.94
+Female,18,South Africa,316,Voiture (diesel),8885,D,200,33.17
+Female,22,United Kingdom,1332,Bus,7204,F,150,15.42
+Male,62,India,200,Train (électrique),17183,E,150,6.44
+Female,21,United Kingdom,797,Train (diesel),5039,F,150,6.64
+Male,33,France,1693,Tramway,12573,C,50,4.37
+Female,41,Brazil,1342,Tramway,18361,D,75,5.6
+Male,33,Australia,1947,Train (électrique),5212,D,200,24.07
+Male,19,France,1474,Métro,5194,C,300,2.7
+Male,66,Brazil,1888,Voiture (diesel),18730,A,150,64.5
+Male,45,China,737,Bus,1056,A,150,10.8
+Male,49,Canada,766,Tramway,13641,C,200,12.2
+Male,44,United Kingdom,1768,Moto,8150,C,150,21.79
+Male,37,China,1665,Moto,19228,B,200,57.79
+Male,41,South Africa,1306,Train (intercités),235,A,100,16.44
+Female,29,Brazil,639,Voiture (électrique),17555,E,300,3.35
+Male,67,United States,358,Train (intercités),3868,F,300,3.03
+Female,52,South Africa,1965,Tramway,17771,A,75,27.98
+Male,50,India,1723,Bus,10916,B,300,26.31
+Female,50,South Africa,995,TGV,12021,E,300,15.21
+Male,68,Australia,1011,Moto,15258,D,75,41.01
+Male,60,China,733,Voiture (diesel),9948,E,50,41.88
+Male,54,United States,661,Bus,1933,F,300,5.06
+Male,29,Canada,1315,TGV,6128,D,50,17.85
+Male,20,Germany,1591,Voiture (électrique),16414,C,300,11.39
+Male,18,United States,411,Train (électrique),3589,C,300,2.45
+Female,50,Canada,1853,Voiture (essence),15763,D,100,81.97
+Male,57,United States,1236,Train (intercités),4111,C,50,6.02
+Female,27,Germany,1584,Train (électrique),15290,G,300,13.84
+Male,60,United Kingdom,443,Train (intercités),2405,D,50,2.69
+Male,61,South Africa,200,Train (intercités),7277,D,300,6.0
+Female,46,India,1796,Voiture (diesel),3225,C,150,20.97
+Female,30,South Africa,1361,Train (diesel),8069,G,150,23.22
+Female,29,South Africa,234,Train (électrique),6375,F,300,4.89
+Female,48,Australia,1065,Train (diesel),3909,E,100,15.3
+Male,63,Brazil,1097,Train (électrique),8341,G,200,4.25
+Male,19,Canada,1245,Tramway,17677,F,150,18.96
+Female,68,United Kingdom,1711,Métro,11415,F,75,8.12
+Female,67,South Africa,361,Train (électrique),19309,F,150,10.45
+Female,52,China,1386,Voiture (électrique),15678,E,50,19.44
+Female,40,United States,107,Voiture (diesel),15578,B,200,51.58
+Female,34,Germany,1121,Tramway,19008,F,50,10.12
+Female,43,United Kingdom,160,Tramway,2197,A,50,0.98
+Male,25,Canada,881,TGV,152,E,50,11.05
+Female,46,United States,434,Train (électrique),18347,G,300,7.06
+Female,43,Brazil,960,Train (intercités),1011,F,50,1.96
+Female,27,Australia,407,Voiture (diesel),4446,F,150,19.32
+Male,43,South Africa,1235,Voiture (diesel),17930,C,300,74.4
+Male,51,Australia,1013,Train (diesel),199,G,75,11.84
+Female,68,China,237,Moto,11401,F,150,24.89
+Female,58,Australia,1385,Voiture (essence),174,F,150,16.63
+Female,24,France,1675,Tramway,266,A,200,1.98
+Female,21,Australia,1746,Train (intercités),19869,G,50,29.7
+Female,70,Canada,1067,Voiture (diesel),7668,G,50,38.55
+Female,67,Brazil,242,Tramway,19742,G,150,4.17
+Female,62,Brazil,664,TGV,4988,D,300,2.17
+Female,28,South Africa,456,Voiture (électrique),16423,A,50,7.91
+Female,46,India,1325,Voiture (essence),7896,A,50,37.1
+Male,53,South Africa,291,Voiture (essence),17089,G,50,67.39
+Female,42,South Africa,300,Voiture (électrique),18308,G,75,6.21
+Female,38,South Africa,276,Voiture (diesel),17284,F,200,60.29
+Male,53,United States,1370,TGV,10454,D,75,6.89
+Female,27,South Africa,1234,Voiture (électrique),5410,F,300,16.15
+Male,54,South Africa,421,Bus,7462,B,200,16.46
+Male,26,United States,582,Voiture (électrique),14283,G,200,3.83
+Male,41,India,290,Voiture (essence),2685,F,100,11.69
+Female,52,Germany,1107,Tramway,16820,E,100,9.62
+Female,66,South Africa,1331,Train (intercités),8337,B,75,20.65
+Male,52,France,1072,Voiture (diesel),1270,F,200,5.41
+Male,65,Canada,516,Train (électrique),3851,A,150,7.63
+Female,53,United Kingdom,517,Tramway,2363,E,150,2.24
+Female,35,Brazil,1277,Voiture (diesel),13011,F,100,44.75
+Female,66,Germany,1235,Train (diesel),5312,D,50,11.21
+Male,56,Canada,1842,Train (diesel),12787,C,150,32.86
+Female,49,China,1913,Métro,16771,E,150,27.14
+Male,41,United Kingdom,237,Bus,14571,F,200,22.68
+Female,40,United States,115,Voiture (diesel),18914,D,75,62.57
+Female,49,Brazil,209,Tramway,16423,G,75,3.48
+Female,54,United Kingdom,1159,Métro,12818,E,50,6.48
+Female,29,Canada,1984,Moto,12171,F,50,48.21
+Male,66,Brazil,883,Train (intercités),15171,G,200,8.65
+Female,30,Germany,1632,Bus,10611,F,150,25.33
+Female,40,Australia,305,Voiture (essence),17922,D,75,70.38
+Male,42,Germany,1626,Train (intercités),8526,G,100,13.48
+Male,52,Germany,1739,Métro,8849,B,75,11.73
+Female,58,Canada,655,Moto,11653,E,200,30.6
+Female,47,Germany,532,Train (intercités),1613,C,100,3.84
+Male,34,Germany,1555,Moto,5748,B,100,20.02
+Female,66,United States,967,Train (diesel),7453,C,300,8.89
+Female,37,China,1935,Voiture (diesel),7633,G,200,49.29
+Male,65,United States,290,Moto,5183,A,150,10.92
+Female,42,Germany,1017,Bus,19444,F,75,35.03
+Male,39,Brazil,1161,Bus,14745,A,300,23.9
+Female,30,South Africa,1392,Métro,16775,G,150,20.63
+Female,36,South Africa,207,Train (intercités),9269,D,300,7.04
+Male,66,Australia,1027,Train (diesel),12519,E,100,21.48
+Female,53,Brazil,372,Métro,6855,B,300,1.89
+Male,29,South Africa,122,Métro,4213,D,50,2.34
+Female,58,South Africa,1827,Train (intercités),19212,A,50,32.07
+Male,36,United Kingdom,1261,Train (diesel),8023,C,100,10.54
+Female,29,France,1863,Voiture (diesel),6540,G,50,23.66
+Female,26,United States,1233,Moto,15357,E,200,33.56
+Female,24,France,115,Bus,10119,B,200,15.31
+Female,45,India,1109,Tramway,19607,E,150,10.17
+Male,31,Germany,1476,Train (diesel),15903,D,50,20.75
+Female,48,United States,118,Tramway,2312,C,200,0.83
+Male,69,China,1488,Tramway,9695,A,50,20.46
+Male,36,Canada,1119,Train (diesel),7702,G,300,19.91
+Female,64,Brazil,1123,Tramway,19437,C,300,5.47
+Female,33,France,1666,Train (intercités),13044,A,300,8.19
+Male,70,Canada,799,Bus,3850,E,150,15.76
+Male,22,Canada,1329,Bus,19165,G,75,45.36
+Male,52,France,128,Train (diesel),7579,A,50,5.98
+Male,29,China,1431,TGV,3702,C,50,18.74
+Male,42,Brazil,362,Tramway,6713,F,150,1.85
+Female,69,Canada,860,TGV,10053,C,75,13.07
+Female,38,Brazil,1943,Métro,3369,A,300,3.64
+Female,53,Germany,584,TGV,3735,G,100,4.23
+Female,70,Canada,1096,Train (intercités),19781,F,75,23.21
+Male,40,Germany,210,Voiture (diesel),13093,F,50,44.27
+Male,33,France,1761,Voiture (électrique),9107,G,50,3.26
+Female,56,Australia,282,TGV,12350,G,100,6.1
+Female,62,Brazil,434,Voiture (électrique),13765,C,50,2.52
+Male,70,South Africa,1510,Tramway,13907,A,100,21.55
+Male,59,France,1598,Train (intercités),10108,A,75,6.7
+Male,56,Canada,525,Métro,9191,B,150,8.33
+Male,31,Brazil,709,Voiture (diesel),1790,B,300,6.98
+Female,48,Canada,1702,Train (diesel),15796,B,300,33.43
+Male,22,India,1606,Bus,1418,D,300,11.39
+Female,52,Brazil,772,Train (intercités),17944,E,50,9.81
+Female,40,United States,1445,Voiture (essence),11721,B,300,48.45
+Female,46,United States,1224,Train (électrique),16483,D,50,9.07
+Male,60,India,238,Voiture (essence),15194,F,75,58.06
+Female,28,France,1148,Moto,9094,G,300,18.81
+Male,35,Australia,1567,Voiture (diesel),16712,F,100,73.04
+Female,64,Canada,1716,Moto,15082,D,200,50.45
+Male,29,Canada,332,Moto,8367,B,75,20.24
+Male,26,Brazil,232,Bus,564,A,300,1.2
+Male,27,India,273,Bus,15430,D,75,24.72
+Male,61,Australia,1693,Train (intercités),10615,E,300,24.64
+Male,34,Brazil,1419,Voiture (essence),11919,E,75,46.65
+Female,55,France,818,Bus,12903,F,50,20.3
+Male,24,Canada,256,Train (intercités),169,G,50,3.28
+Female,63,South Africa,1350,Tramway,19990,G,100,20.72
+Female,30,India,1146,Voiture (essence),8910,C,300,39.85
+Male,57,Germany,450,Métro,7349,D,100,4.01
+Female,59,Germany,1539,Voiture (essence),10021,E,100,46.26
+Male,26,France,103,Voiture (diesel),1758,A,200,5.9
+Female,67,Brazil,1691,Voiture (électrique),9855,G,50,3.93
+Female,44,India,650,Tramway,19847,D,300,7.57
+Male,19,France,1147,Voiture (électrique),369,E,200,1.37
+Female,22,United Kingdom,1756,Train (intercités),7800,G,100,9.83
+Male,46,India,1285,Métro,18909,E,100,11.05
+Female,54,Australia,845,Train (diesel),17136,B,50,22.93
+Female,55,United States,872,Bus,4264,C,300,9.25
+Female,36,United Kingdom,483,Train (électrique),14836,A,100,6.24
+Female,25,South Africa,275,Moto,2526,C,75,8.3
+Male,65,India,1804,Voiture (essence),15584,G,300,68.55
+Female,62,Germany,630,Train (diesel),6691,C,75,8.78
+Male,18,India,749,Train (diesel),13378,E,100,14.61
+Female,39,India,1959,Voiture (électrique),4577,C,150,11.92
+Female,69,South Africa,1698,Train (diesel),19833,A,75,36.48
+Female,34,Brazil,1057,Moto,8894,F,150,18.73
+Male,24,China,149,Train (diesel),15258,F,75,13.6
+Female,42,Canada,810,Voiture (électrique),10865,E,300,11.59
+Female,62,Canada,1860,TGV,2558,F,150,23.84
+Female,21,Brazil,407,TGV,1029,F,100,0.86
+Male,53,Canada,1285,Bus,4675,E,75,23.08
+Male,23,Australia,652,Voiture (électrique),4640,A,75,8.15
+Male,48,China,1751,Moto,9985,B,200,41.09
+Male,36,United Kingdom,1149,TGV,15293,E,150,7.51
+Female,61,United Kingdom,903,TGV,1723,G,50,3.52
+Male,56,China,1568,Train (diesel),15859,C,300,31.8
+Male,44,Germany,1469,Train (intercités),18100,F,50,17.18
+Female,27,United States,1655,Train (intercités),14924,E,75,12.59
+Female,43,United States,459,Voiture (électrique),13330,G,50,3.3
+Female,36,Australia,981,Train (intercités),1681,F,300,12.13
+Female,56,United Kingdom,1127,TGV,4689,D,100,4.98
+Male,20,Canada,1998,Train (diesel),17086,F,75,38.12
+Female,62,South Africa,1322,Voiture (diesel),5018,G,150,33.03
+Female,30,United States,1187,TGV,7727,F,150,5.66
+Female,67,Australia,276,TGV,12473,F,100,6.06
+Female,45,Australia,1720,Bus,16288,E,150,44.28
+Male,37,Australia,1303,Moto,1085,F,50,17.12
+Female,45,Australia,1545,Métro,3782,B,75,18.55
+Female,25,Australia,1850,Train (électrique),1471,A,75,21.8
+Female,58,Australia,1057,Tramway,16397,A,200,15.35
+Female,56,United Kingdom,294,Train (électrique),2648,C,150,1.83
+Female,18,Canada,744,Voiture (essence),9682,D,150,45.42
+Male,20,Germany,1570,Train (électrique),7554,B,150,11.38
+Male,30,France,352,Bus,3622,B,200,5.84
+Male,45,Australia,1049,Bus,17584,C,200,38.48
+Female,66,Brazil,397,Train (électrique),2651,F,100,1.43
+Female,42,Brazil,1094,Voiture (essence),1097,D,150,5.78
+Female,50,India,392,TGV,449,E,75,2.37
+Male,55,China,727,Tramway,6170,E,100,10.27
+Male,70,Australia,1932,Train (électrique),1328,G,75,22.7
+Female,23,Australia,1224,Bus,15928,A,50,38.02
+Male,61,Brazil,223,Bus,195,F,300,0.64
+Male,62,India,1501,Voiture (électrique),7421,A,50,9.66
+Female,49,India,1771,Bus,2534,D,300,14.02
+Female,62,United States,598,Voiture (essence),2716,C,300,12.09
+Male,64,India,545,Train (diesel),7150,F,50,8.64
+Female,38,United Kingdom,234,Tramway,6000,F,50,1.96
+Female,33,United States,801,Tramway,9326,E,300,4.41
+Male,38,India,1481,Moto,11669,D,75,30.98
+Male,28,United Kingdom,105,Train (électrique),17081,B,200,5.62
+Female,54,France,753,Voiture (essence),11778,A,75,44.81
+Male,53,India,1944,Bus,16728,G,100,36.31
+Female,52,Germany,382,Tramway,13743,E,150,4.85
+Male,36,Brazil,1987,Bus,4605,F,150,9.96
+Male,37,United Kingdom,1630,Voiture (essence),13492,D,75,55.98
+Male,35,South Africa,819,Métro,9801,A,50,12.12
+Female,64,Brazil,520,Train (électrique),16258,C,200,5.8
+Male,58,United States,1854,Voiture (électrique),4826,B,150,6.71
+Female,66,India,1806,Moto,1472,B,200,13.25
+Male,31,South Africa,1884,TGV,14615,E,300,26.92
+Male,32,Australia,1689,Métro,10525,G,75,21.51
+Female,48,Germany,755,Voiture (électrique),4614,G,150,4.98
+Male,18,India,869,Bus,7434,G,50,16.16
+Female,70,Australia,201,Tramway,5728,C,100,3.42
+Female,20,South Africa,1162,Métro,18479,B,75,18.08
+Female,33,Australia,1344,Métro,8927,C,75,17.22
+Male,40,United States,1588,Moto,3303,E,50,11.54
+Female,28,China,1253,Voiture (diesel),8387,F,100,43.24
+Female,29,Australia,1572,Tramway,5344,A,100,19.17
+Male,27,United States,304,Tramway,18753,F,75,4.6
+Male,49,South Africa,521,Voiture (essence),18582,F,150,75.84
+Female,33,Germany,554,Moto,5334,C,200,13.45
+Female,25,United States,269,TGV,15205,D,50,4.39
+Female,55,United Kingdom,314,Métro,3889,B,100,1.83
+Male,29,France,830,Train (électrique),10059,E,300,4.05
+Male,41,China,1346,Bus,1489,D,75,19.06
+Female,45,India,1124,Moto,6870,B,75,19.7
+Female,70,South Africa,319,Moto,19552,F,150,41.59
+Female,25,France,150,Tramway,2413,G,100,0.64
+Female,45,India,184,Tramway,7221,G,300,2.45
+Male,53,United States,315,Moto,8440,G,300,17.26
+Female,43,Germany,871,Voiture (diesel),18240,C,50,65.01
+Male,25,Brazil,154,Moto,391,E,300,0.99
+Male,67,Australia,389,Voiture (essence),13328,G,200,54.21
+Female,45,South Africa,211,Moto,19265,A,100,39.69
+Female,45,South Africa,589,Métro,14845,F,50,10.22
+Male,54,Brazil,1458,Bus,8338,A,300,14.75
+Female,58,India,1896,Moto,10829,B,200,31.76
+Male,53,Germany,474,Moto,14464,G,300,30.55
+Male,44,United States,999,Train (intercités),17494,C,100,11.68
+Male,34,Canada,1495,Métro,9976,G,300,20.61
+Female,26,India,447,Métro,16094,A,50,5.67
+Male,50,Germany,709,Voiture (essence),9691,C,300,40.25
+Female,70,Germany,1458,Train (diesel),5491,C,75,12.64
+Female,37,China,641,Tramway,1989,C,75,8.4
+Male,30,United Kingdom,1702,Train (intercités),4161,E,50,7.89
+Male,45,United Kingdom,850,Tramway,10860,C,200,5.03
+Male,65,United States,280,TGV,7921,A,150,2.74
+Female,46,India,1590,Train (diesel),19537,D,75,24.2
+Female,30,South Africa,638,Métro,15641,C,100,10.98
+Female,63,France,1005,Train (diesel),2395,D,75,3.0
+Female,52,France,1574,Moto,1798,C,200,5.27
+Male,23,China,504,Métro,18159,B,100,9.79
+Male,35,Australia,1146,Tramway,10674,D,150,15.28
+Female,68,United States,1620,Train (intercités),7377,E,200,8.84
+Female,22,Canada,1095,Train (diesel),2265,G,100,15.43
+Female,64,Brazil,1985,Train (électrique),5110,F,150,4.63
+Male,42,United Kingdom,1532,Voiture (essence),8580,F,200,37.31
+Male,19,France,228,Voiture (essence),6259,F,75,23.61
+Male,27,United Kingdom,146,Métro,12120,B,150,2.84
+Male,47,China,1355,Voiture (électrique),15285,D,150,19.0
+Male,67,South Africa,566,Tramway,16122,C,300,10.18
+Female,62,China,382,Train (électrique),6840,F,75,6.88
+Male,22,United States,1334,Métro,16806,B,200,7.59
+Male,50,United Kingdom,482,Bus,19851,B,300,31.44
+Female,18,South Africa,1747,Voiture (essence),5645,A,200,42.9
+Male,35,Germany,1477,Train (intercités),8297,E,100,12.51
+Male,49,India,269,Tramway,13069,C,100,4.07
+Female,64,Canada,1245,Voiture (électrique),11464,F,75,17.11
+Male,66,France,1165,Train (diesel),10680,A,100,9.56
+Female,28,India,355,Tramway,7051,F,50,3.4
+Male,38,South Africa,1886,Train (intercités),9165,G,150,27.98
+Male,43,India,855,TGV,3044,G,75,5.64
+Female,42,United States,1904,TGV,14828,E,50,9.65
+Male,39,Canada,1750,Train (diesel),9570,A,150,29.24
+Male,44,India,553,Moto,12106,G,50,26.47
+Male,66,United States,545,TGV,5368,G,50,3.02
+Male,30,Brazil,534,Train (intercités),12722,F,150,6.94
+Female,50,India,1690,Voiture (diesel),18386,D,150,70.21
+Male,51,United Kingdom,803,Train (intercités),10373,E,200,7.77
+Female,58,Australia,1493,Voiture (électrique),3448,G,200,17.69
+Male,52,China,417,TGV,9959,A,200,7.51
+Male,18,South Africa,1471,Tramway,17882,C,50,21.83
+Female,38,South Africa,990,Tramway,7366,E,100,13.79
+Female,65,France,1940,Moto,645,D,150,3.48
+Female,23,France,844,Voiture (électrique),7408,C,200,1.97
+Male,45,United States,920,Voiture (électrique),15915,F,200,5.15
+Male,34,France,753,Train (électrique),12300,C,150,4.65
+Male,22,United Kingdom,1604,Bus,19326,D,100,34.54
+Female,48,Brazil,592,Train (diesel),8775,E,300,7.66
+Female,22,Australia,1383,Train (électrique),11465,G,200,19.49
+Male,55,Germany,1916,Train (électrique),11750,G,150,14.67
+Male,20,United States,596,Train (électrique),13692,D,100,6.16
+Female,70,Germany,934,TGV,18910,E,50,9.75
+Female,40,South Africa,935,Bus,6548,A,300,21.51
+Male,54,India,835,Tramway,10614,F,75,6.86
+Male,70,China,240,Train (intercités),7317,E,300,6.52
+Male,54,Canada,1680,Métro,19073,D,150,24.67
+Male,27,Brazil,890,Train (intercités),19736,B,300,10.86
+Female,27,Germany,1333,Voiture (électrique),10067,G,150,9.05
+Male,36,South Africa,1040,Train (intercités),6942,F,150,16.34
+Female,34,Australia,677,Voiture (essence),18555,B,200,77.04
+Female,38,Brazil,1828,Tramway,6502,D,75,4.06
+Male,31,South Africa,1707,Train (diesel),15071,C,50,32.93
+Male,26,Canada,1007,Train (diesel),12539,A,50,22.23
+Male,63,United Kingdom,1695,Voiture (essence),6135,C,75,28.76
+Female,18,South Africa,574,Tramway,5883,A,75,8.31
+Male,68,United States,1237,Train (intercités),15144,F,200,11.32
+Female,62,Germany,1157,Tramway,13507,A,150,9.27
+Male,30,South Africa,1229,TGV,14726,F,200,18.76
+Female,21,India,2000,Bus,18119,C,100,38.72
+Female,18,India,661,Bus,14341,A,75,25.32
+Female,66,Germany,172,Train (intercités),12882,G,100,7.19
+Female,57,China,1324,Voiture (essence),15345,C,300,73.8
+Male,49,France,1934,Moto,11586,G,100,24.51
+Male,51,United Kingdom,1081,Voiture (électrique),5982,E,50,4.55
+Male,45,Germany,518,Train (électrique),6389,G,100,4.95
+Female,48,Germany,1338,TGV,3573,B,200,8.54
+Female,25,China,633,Voiture (électrique),1709,E,150,8.14
+Male,56,South Africa,896,Voiture (diesel),8581,G,100,39.42
+Female,43,Canada,1766,Train (intercités),17028,D,50,30.26
+Female,51,South Africa,425,Train (diesel),13322,C,100,15.56
+Female,20,Canada,1640,Métro,1615,B,200,20.81
+Female,67,Canada,440,Train (électrique),10572,F,150,8.75
+Female,29,United States,1634,Moto,747,F,300,6.78
+Female,18,France,1751,Voiture (diesel),7343,C,150,26.17
+Female,61,United Kingdom,504,Métro,16019,A,200,4.83
+Female,22,Australia,319,TGV,974,F,200,3.91
+Female,47,India,929,Voiture (essence),6551,D,150,29.8
+Female,47,United Kingdom,786,Métro,11572,A,50,4.95
+Female,34,India,228,Train (intercités),17112,F,150,9.54
+Male,65,China,1383,Moto,2284,C,50,21.68
+Male,64,United States,888,Moto,18707,E,50,38.88
+Female,40,China,1336,Voiture (essence),10158,G,100,54.6
+Female,32,Brazil,926,Voiture (électrique),13980,G,75,3.31
+Female,54,Canada,1877,Voiture (électrique),5187,B,75,24.16
+Female,38,India,997,Tramway,4211,F,300,6.56
+Male,31,Brazil,1655,Voiture (électrique),13114,F,100,4.31
+Male,19,China,1783,Voiture (essence),10870,G,150,62.84
+Female,28,France,813,Moto,13775,F,300,27.43
+Female,68,France,204,TGV,14204,G,75,3.51
+Male,56,Brazil,1245,Train (électrique),3002,B,50,2.84
+Male,55,Canada,1112,Train (intercités),8113,G,75,17.8
+Female,51,India,1126,Bus,19138,G,150,35.2
+Male,55,Canada,1041,Voiture (essence),19840,C,150,87.03
+Male,67,South Africa,667,Tramway,16122,C,150,11.44
+Female,51,Brazil,1191,Voiture (diesel),4931,B,50,18.05
+Male,35,China,1685,Métro,18131,A,150,24.55
+Female,47,Canada,1112,Train (intercités),1849,C,50,14.79
+Male,32,Australia,592,Tramway,5500,C,100,7.89
+Female,44,Germany,1032,Train (intercités),17868,E,50,14.54
+Female,68,Germany,691,Voiture (essence),10469,F,100,43.04
+Male,51,Germany,118,Train (intercités),14504,A,150,7.65
+Male,69,China,195,Tramway,2835,F,75,2.98
+Male,55,Australia,1295,Métro,16432,F,150,18.1
+Male,50,Canada,1138,Voiture (essence),9401,E,75,49.3
+Female,41,Australia,1290,Train (intercités),391,A,50,15.07
+Male,32,China,1604,Métro,6965,C,50,21.39
+Male,47,India,674,Moto,15768,E,100,34.21
+Male,59,United States,228,Bus,16974,A,150,26.21
+Female,68,South Africa,1900,Métro,8617,C,50,25.41
+Male,34,France,489,Voiture (essence),18608,C,75,69.99
+Female,22,United States,1288,Voiture (diesel),10368,E,300,38.31
+Female,46,United States,150,Train (électrique),1151,E,200,0.84
+Female,21,Australia,1454,Voiture (diesel),13542,C,150,61.31
+Female,27,United Kingdom,645,Métro,506,C,200,2.33
+Female,34,India,1440,Voiture (essence),16679,A,200,70.53
+Female,27,Germany,424,Train (diesel),8249,D,75,8.79
+Female,34,United States,1266,Voiture (essence),2650,A,200,14.03
+Female,37,Canada,1760,Tramway,16442,F,100,25.16
+Female,41,Brazil,1182,Bus,3995,C,300,7.81
+Male,22,Brazil,1247,Métro,4409,F,100,2.77
+Male,51,South Africa,168,Voiture (essence),399,B,50,3.59
+Female,23,Germany,1986,Voiture (essence),13672,C,300,62.46
+Male,70,United Kingdom,909,Voiture (essence),6325,F,50,26.74
+Male,19,Canada,1076,Voiture (électrique),14982,A,50,15.47
+Female,30,France,1668,Train (électrique),5903,A,75,3.74
+Female,60,United Kingdom,853,Moto,13477,C,75,28.87
+Male,60,France,980,Tramway,16564,G,150,4.32
+Male,65,South Africa,1502,Voiture (essence),12287,B,100,64.61
+Male,28,Australia,164,Tramway,12600,F,50,4.32
+Female,68,China,1743,Tramway,9839,C,150,23.68
+Male,64,Germany,813,Train (intercités),13492,G,100,11.18
+Female,40,South Africa,1091,Tramway,17157,A,50,16.94
+Female,33,United Kingdom,1656,Moto,19115,F,50,42.49
+Male,48,Canada,1151,Tramway,3152,G,75,14.99
+Male,28,Germany,1489,Train (intercités),9006,E,300,12.92
+Female,33,France,1190,Métro,1128,G,150,1.59
+Male,25,Germany,1548,Métro,6077,E,300,10.1
+Male,21,Canada,324,TGV,4527,G,75,5.09
+Male,57,Germany,367,Train (électrique),12910,C,300,6.09
+Male,21,France,1766,Voiture (diesel),14346,G,100,49.21
+Male,42,India,1847,Tramway,17709,E,100,14.06
+Male,20,China,1712,Train (électrique),17396,C,300,26.75
+Female,49,United Kingdom,594,Train (diesel),9152,C,50,9.1
+Male,20,India,474,Train (électrique),4024,F,300,3.97
+Female,44,South Africa,499,Voiture (essence),1096,D,75,10.33
+Female,46,China,1727,Bus,12817,C,75,40.81
+Male,49,United States,1715,Train (intercités),12219,C,200,11.48
+Male,67,India,1013,Voiture (électrique),16814,E,150,8.11
+Male,68,South Africa,1289,Train (intercités),19634,B,150,25.55
+Female,36,India,660,Moto,17793,F,200,38.02
+Male,38,China,1734,Voiture (diesel),1603,E,150,26.95
+Female,22,South Africa,1320,Voiture (essence),5345,D,200,36.44
+Male,35,India,1561,Voiture (essence),13158,G,150,58.1
+Female,45,Australia,334,Train (intercités),13187,A,300,10.19
+Female,59,Brazil,1953,Train (intercités),17011,E,300,11.18
+Female,39,Brazil,1882,Voiture (électrique),12210,B,300,4.54
+Female,38,France,1908,Train (électrique),9812,B,50,5.22
+Male,23,Germany,1342,Voiture (électrique),684,E,150,7.83
+Male,18,South Africa,869,TGV,8952,B,200,12.93
+Female,22,China,1513,Voiture (essence),11656,B,75,62.4
+Male,58,India,564,Train (intercités),19924,C,50,12.83
+Female,29,United States,699,Voiture (électrique),6928,A,75,3.22
+Male,43,China,1820,Train (diesel),3710,C,150,25.6
+Male,63,India,1637,Moto,18459,G,200,44.94
+Male,51,France,252,Bus,19772,C,100,29.95
+Female,66,United States,1610,Train (électrique),9987,C,75,8.34
+Male,31,Canada,1915,Voiture (électrique),19212,B,100,26.52
+Female,43,United Kingdom,1065,Métro,12750,B,100,6.14
+Male,62,Germany,112,Tramway,7942,C,75,2.17
+Female,44,United States,1465,Métro,2739,B,50,5.32
+Male,26,United Kingdom,824,Train (électrique),10883,D,200,6.2
+Male,43,United Kingdom,1611,TGV,15616,C,100,9.18
+Female,64,China,1875,Train (diesel),17136,C,150,36.62
+Male,39,China,1931,Train (intercités),8461,D,50,28.21
+Male,64,Australia,1426,Voiture (diesel),6669,C,100,38.38
+Female,47,Germany,1280,Train (diesel),16324,E,200,19.94
+Female,60,India,1559,Train (électrique),5280,A,150,10.62
+Male,65,China,290,Moto,2986,E,100,9.37
+Male,34,Brazil,417,TGV,2236,C,75,1.16
+Male,43,United Kingdom,574,Bus,9518,C,75,16.26
+Male,53,China,757,Bus,1714,G,200,12.03
+Male,18,India,571,Train (électrique),298,B,75,3.39
+Male,25,South Africa,1958,Train (intercités),17508,F,100,32.89
+Female,66,United States,681,Train (électrique),9777,E,200,5.23
+Male,52,South Africa,870,Voiture (diesel),2290,B,200,18.41
+Male,69,Canada,1551,Tramway,130,B,200,19.41
+Male,32,South Africa,1951,Voiture (électrique),10711,E,200,25.83
