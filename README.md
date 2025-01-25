@@ -99,9 +99,8 @@ Welcome to **SmartEcoIA**, an API that predicts weekly CO₂ emissions based on 
 ### **2. Clone the Project**
 
 ```bash
-git clone git pull origin main --rebase
+git clone https://github.com/Aboubakar-Ali/SmartEcoIA-CO2-Prediction-API.git
 
-cd smartecoia
 ```
 
 ### **3. Build the Docker Image**
